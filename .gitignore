@@ -1,5 +1,6 @@
 # Node modules
-node_modules/
+api/node_modules/
+client/node_modules/
 
 # Environment variables
 /api/.env
