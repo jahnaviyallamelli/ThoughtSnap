@@ -17,21 +17,6 @@ ThoughtSnap is a story writing platform built using the MERN stack. It allows us
 - **Database**: MongoDB
 - **Other Tools**: Mongoose, JWT for authentication
 
-## Project Structure
-
-/ThoughtSnap
-├── /api
-│ ├── .env
-│ ├── node_modules/
-│ ├── ( backend files)
-├── /client
-│ ├── node_modules/
-│ ├── (frontend files)
-├── .gitignore
-├── README.md
-└── ( project files)
-
-
 ## Getting Started
 
 ### Prerequisites
